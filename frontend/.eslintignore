@@ -1,0 +1,8 @@
+# 忽略特定的 Vue 文件
+src/views/DiscussionView.vue
+src/views/PredictionView.vue
+src/views/HomeView.vue
+
+# 忽略构建输出目录
+dist/
+node_modules/ 
