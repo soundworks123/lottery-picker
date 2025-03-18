@@ -10,6 +10,23 @@
 - 📱 响应式设计：支持各种设备访问
 - 🚀 性能优化：采用多种优化策略提升加载速度
 
+## 项目截图
+
+### 首页
+![首页](docs/images/home.png)
+
+### 选号功能
+![选号功能](docs/images/lottery.png)
+
+### 数据分析
+![数据分析](docs/images/analysis.png)
+
+### 智能预测
+![智能预测](docs/images/prediction.png)
+
+### 社区讨论
+![社区讨论](docs/images/discussion.png)
+
 ## 技术栈
 
 ### 前端
@@ -34,7 +51,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/lottery-picker.git
+git clone https://github.com/soundworks123/lottery-picker.git
 cd lottery-picker
 ```
 
