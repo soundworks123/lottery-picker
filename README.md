@@ -98,8 +98,8 @@ lottery-picker/
 
 ## 联系方式
 
-- 项目维护者：[您的名字]
-- 邮箱：[您的邮箱]
+- 项目维护者：[Chao Jun]
+- 邮箱：[chaojun58@outlook.com]
 
 ## 致谢
 
