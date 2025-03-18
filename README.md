@@ -13,19 +13,19 @@
 ## 项目截图
 
 ### 首页
-![首页](docs/images/home.png)
+![首页](docs/images/screenshots/home.png)
 
 ### 选号功能
-![选号功能](docs/images/lottery.png)
+![选号功能](docs/images/screenshots/lottery.png)
 
 ### 数据分析
-![数据分析](docs/images/analysis.png)
+![数据分析](docs/images/screenshots/analysis.png)
 
 ### 智能预测
-![智能预测](docs/images/prediction.png)
+![智能预测](docs/images/screenshots/prediction.png)
 
 ### 社区讨论
-![社区讨论](docs/images/discussion.png)
+![社区讨论](docs/images/screenshots/discussion.png)
 
 ## 技术栈
 
@@ -115,8 +115,8 @@ lottery-picker/
 
 ## 联系方式
 
-- 项目维护者：[您的名字]
-- 邮箱：[您的邮箱]
+- 项目维护者：[Chao Jun]
+- 邮箱：[chaojun58@outlook.com]
 
 ## 致谢
 
